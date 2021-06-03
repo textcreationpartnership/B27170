@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The profitable adventure to the fortunate: lately begun by Thomas Neale, Esq; their Majesties groom-porter. Having been reported in town, and mentioned in several news letters, to be stopt, and not allowed to go on; for undeceiving all persons that are or may be therein concerned, the contrary is published in several gazettes. And because many that see this, may not (it may be) the printed paper at large, the contents of it is in short thus, (Viz)</title>
+            <author>Neale, Thomas, d. 1699?</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27170</idno><idno type="EEBO-CITATION">99885692</idno>
+  <idno type="VID">201622</idno>
+  <idno type="EEBO-PROQUEST">2240882040</idno>
+  
+            <idno type="STC">Wing N345A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[67]</idno>
+            <idno type="STC">ESTC R224831</idno>
+            <idno type="PROQUEST">ocm99885692</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885692e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201622)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The profitable adventure to the fortunate: lately begun by Thomas Neale, Esq; their Majesties groom-porter. Having been reported in town, and mentioned in several news letters, to be stopt, and not allowed to go on; for undeceiving all persons that are or may be therein concerned, the contrary is published in several gazettes. And because many that see this, may not (it may be) the printed paper at large, the contents of it is in short thus, (Viz)</title>
+                  <author>Neale, Thomas, d. 1699?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by F. Collins, in the Old Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: August 11. 1694. Tho. Neale.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201622:1"/>
+            <head>
+               <hi>THE Profitable Adventure To the Fortunate: lately Begun by</hi> Thomas Neale, <hi>Esq;</hi> Their Majesties Groom-Porter. Having been Reported in Town, and Mentioned in several <hi>News Letters,</hi> to be Stopt, and not Allowed to go On; For Undeceiving all Persons that are or may be therein Concerned, the Contrary is Published in several <hi>Gazettes.</hi> And because many that see this, may not (it may be) the Printed Paper at large, the Contents of it is in short thus, <hi>(VIZ.)</hi>
+            </head>
+            <p>
+               <hi>THomas Neale,</hi> Esq <hi>Groom Porter</hi> to Their Majesties: As he last year gave out 50000 Tickets at Ten Shillings a piece, he now gives out such 50000 Tickets at Twenty Shillings, with these Advantages more than was then: <hi>(viz.)</hi> Whereas those Benefitted Tickets drew in Money 10 <hi>per Cent.</hi> less than the 50000 Number Tickets were given out for, these will draw the whole Money, to make more Benefitted Tickets; the Fortunate being now to abate 10 <hi>per Cent.</hi> on Receipt of their Benefits, for Care, Hazard, Trouble, Charge, and Rebate for One Hundred days Interest, which was allowed by each Goldsmith to such as paid down their Money before the 10th of <hi>August,</hi> 1694. And each Ticket is a Goldsmiths Note for Repaying of 20 <hi>s.</hi> to the Bearer, if any thing hinders the Drawing. And whereas among the last 50000 Numbers, there were only 250 Benefits, among this 50000 there will (besides first and last) be 1250: thus, One of 4000 <hi>l.</hi> Two of 1000 <hi>l.</hi> Six of 500 <hi>l.</hi> Six of 300 <hi>l.</hi> Ten of 200 <hi>l.</hi> One Hundred of 100 <hi>l.</hi> One Hundred of 50 <hi>l.</hi> One Hundred of 40 <hi>l.</hi> Two Hundred of 30 <hi>l.</hi> Four Hundred Se<g ref="char:EOLhyphen"/>venty and five of 20 <hi>l.</hi> Two Hundred and Fifty of 10 <hi>l.</hi> In all, 1250, besides first and last, 100 <hi>l.</hi> each. <hi>Total</hi> 50000 <hi>l.</hi>
+            </p>
+            <p>The time allowed for paying in of the Money, is only till the 20th. of <hi>September,</hi> 1694. The time designed for Drawing, to be the week after <hi>Michaelmas,</hi> or within Ten days after tis full, which shall first happen: The precise Time and Place will be Published in Print. Mr. <hi>Richard Lascels,</hi> Mr. <hi>Joseph Fells,</hi> Mr. <hi>John Lund,</hi> Mr. <hi>Robert Fowle,</hi> Mr. <hi>James Hallett,</hi> Mr. <hi>Thomas Williams,</hi> Mr. <hi>Richard Smith,</hi> Mr. <hi>John Sweetaple,</hi> Mr. <hi>Peter Lupart,</hi> Mr. <hi>William Sheppard,</hi> Mr. <hi>William Atwill,</hi> Mr. <hi>Edward Mompesson,</hi> Mr. <hi>Nathaniel Green,</hi> near <hi>Leicester-fields,</hi> Mr. <hi>Charles Shelly</hi> in <hi>Panton-street,</hi> Mr. <hi>John Mead</hi> by the <hi>Fountain Tavern,</hi> and Mr. <hi>Richard Hamersly</hi> at the <hi>Marigold</hi> and <hi>Sun</hi> in the <hi>Strand,</hi> Mr. <hi>James Mar<g ref="char:EOLhyphen"/>mian</hi> at the <hi>Golden Lyon</hi> in <hi>Fleetstreet,</hi> and Mr. <hi>Doyley</hi> at the <hi>Plow</hi> in <hi>Lom<g ref="char:EOLhyphen"/>bard-street,</hi> Goldsmiths, are appointed for Receiving the Money, and to pay the Fortunate their Benefits; and with the Managers for the <hi>Million Adventure,</hi> are Trustees to see all this with Justice, to the best of their Judgments performed. At the Goldsmiths Shops likewise, Printed Papers describing the whole matter at large, may (by such as take Tickets) be had.</p>
+            <p>Which Proposal foregoing, has been so much approved of, that since the Stop (which to give way to Publick Convenience, was for some time put to it) has been removed with leave, from the Farmers of all the Lot<g ref="char:EOLhyphen"/>teries, and Their Majesties Favour, without which it could not have been Published in the <hi>London Gazette;</hi> it has filled in such sort, that 'tis not to be doubted, but that twill be quite Full, and certainly Drawn at the Time, notwithstanding the many other Adventures set up to obstruct it; and especially One for 50000 <hi>l.</hi> newly come out, under the Title of <hi>The Double Chance,</hi> whereof Mr. <hi>Neale</hi> would have taken no Notice, but that he sees not only himself and his Proposal Reflected on in't, but thinks it also his Duty (being the first Setter up of this sort of Adventures) to let all People know that they indeed are imposed on, if, from any thing in that Paper they are made to believe, that they have any greater Advantage given them, then what is Proposed by Mr. <hi>Neale</hi> in his; for out of each 50000 <hi>l.</hi> 10 <hi>per Cent,</hi> is Proposed to be allowed, and taken for Charges, Hazard, and Trouble. So that 45000 <hi>l.</hi> is all will be left in either for
+<pb facs="tcp:201622:2"/> the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urers; and whether they have it in more or less Chance, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tis the same thing: And that no body may think that Mr. <hi>N<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> did not set out his, with such <hi>Double Chance,</hi> because twas not thought on, 'tis really otherwise, 'twas put into Writing before <hi>July,</hi> by him, and on mature Deliberation and Advising upon't, 'twas resolved it should not be put so, being only a Seeming, and no Real Advantage at all; most that put in such small Sums as 20 <hi>s.</hi> being supposed to be willing to lose it, or to get something considerable by it. And</p>
+            <p>Whereas, The Publisher in his 3dly, to impose on the unwary, takes the Confidence to say, that he that puts in 100 <hi>l.</hi> can be said to Adventure but 80 <hi>l.</hi> I say downright he Adventures 100 <hi>l.</hi> and where 10 <hi>per Cent.</hi> is deducted, he has but his Chance for his Share of 90 <hi>l.</hi> let it be divided or as often drawn for, as 'twill: As to the Rebate, which he says was only Pretended, and nothing if not drawn, because to be paid by the Profits; 'Twas a real Rebate, and for as much as it came to a real Advantage to e<g ref="char:EOLhyphen"/>very Adventurer that took it, which many did, and every one might for the first Fifty days, and was to those that would make it so, a reducing th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 10 <hi>per Cent.</hi> ask'd in all these Proposals for Charges, to 8 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d.</hi> and by consequence, instead of being a worse, was by so much a better Propos<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then is now made by this <hi>Double Chance;</hi> so 'tis plain, that whole Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>graph is intirely Fallacious, and to say (the best that with Modesty oug<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be said of it) untrue. And</p>
+            <p>Those that now set out this <hi>Double Chance,</hi> do wisely to allow no Interest by way of Rebate, least they pay it themselves, and so chuse rather to leave the Adventurer to lose it, which he may probably do for tho (like <hi>Soveraigns</hi>) they Publish in Print, That it is Resolved to be Drawn the 14 <hi>Decemb.</hi> 1694. 'Tis possible it may not be so, they ha<g ref="char:EOLhyphen"/>ving no leave, as Mr. <hi>Neale</hi> thinks, from Their Majesties, nor the Farm<g ref="char:EOLhyphen"/>ers of the Lotteries, and without which he would not have presumed to Proceed.</p>
+            <p>As to what is 4thly said, to be an universal Objection against the way of Drawing, intended by Mr. <hi>Neale,</hi> Mr. <hi>Neale</hi> hopes is a Title given to it by himself and opposers only, it carrying with it indeed (whether un<g ref="char:EOLhyphen"/>derstood or not) the very same Chance as the other does, where all the Numbers are Drawn, with this further Advantage and Satisfaction. That in this short way of Drawing every Adventurer may (it may be) spare time to be an eye-witness, that his Number is put in and Drawn in such sort, as to give him a fair Chance for the Prizes, which the tediousness of the other way of Drawing, will give very few the opportunity of seeing.</p>
+            <p>As to the Advantage Proposed at last, by way of Memorandum, 'tis such a one, as if it should come into the power of any one to require it, 'tis one hundred to one, but hee'l be so wise as to let it alone.</p>
+            <p>Nothing in this before-said is design'd in the least to Reflect on the Noble Persons named for its Trustees, 'tis rather supposed, they may have been imposed on, and not throughly considered the Paper. In short,</p>
+            <p>Mr. <hi>Neale</hi>'s Lottery will be certainly drawn and ended the Week after <hi>Mi<g ref="char:EOLhyphen"/>chaelmas,</hi> with Leave as afore-said: And whether <hi>The Double Chance</hi> will be Drawn without it, and ever ended or not, is left to the World to Judge, and to time to Determine.</p>
+            <p>
+               <hi>Note,</hi> The 50000 <hi>l.</hi> which Mr. <hi>Neale</hi>'s Lottery is proposed to Consist of whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> full, is to be Drawn all at once among the Adventurers who shall have Pai<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 50000 <hi>l.</hi> for it; Whereas of the 50000 <hi>l.</hi> which the <hi>Double Chance</hi> is propos'd t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Consist of, if full, 40800 <hi>l.</hi> only is at once to be Drawn among the Adventurer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> who shall have Paid 50000 <hi>l.</hi> for't. 'Tis true, the other 9200 <hi>l.</hi> is to be afterwar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Drawn, and makes up the 40800 <hi>l.</hi> 50000 <hi>l.</hi> only; So that as to point of Adva<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tage and Dividend of Money among the Adventurers, 'tis neither better<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> worse than what is propos'd by Mr. <hi>Neale,</hi> with this Inconvenience to Bo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> if the <hi>Double Chance</hi> ever be Drawn, which 'tis hard to Imagine, being set<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without Leave, instead of 3 or 4 days proposed for the Drawing by Mr. <hi>Ne<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 'twill require more Weeks to do it; and being to be so Drawn at twice, 'twill<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> main the more subject (let what care will be taken) as well to Deceit as Mistak<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <closer>
+               <signed>THO. NEALE.</signed>
+               <dateline>
+                  <date>
+                     <hi>August</hi> 22. 1694.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. Collins,</hi> in the <hi>Old Baily.</hi> 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
